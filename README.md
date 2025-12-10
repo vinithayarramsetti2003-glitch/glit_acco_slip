@@ -85,6 +85,20 @@ Azure SQL database:
 ![WhatsApp Image 2025-12-10 at 11 00 04_a427ee5f](https://github.com/user-attachments/assets/3ef3f6f3-6e99-425a-a754-5dfacbd7f7b0)
 ![WhatsApp Image 2025-12-10 at 11 00 04_f0345929](https://github.com/user-attachments/assets/e84a17b2-0253-4be2-8fa9-c755465f4500)
 ![WhatsApp Image 2025-12-10 at 11 00 04_ba2fb0d1](https://github.com/user-attachments/assets/75770296-1ae7-4c71-a00d-8c659822675c)
+Jenkins:
+![WhatsApp Image 2025-12-10 at 12 11 18_4685d71e](https://github.com/user-attachments/assets/38bd3b41-8e14-408f-9f4f-e4d9ceeb8799)
+![WhatsApp Image 2025-12-10 at 12 13 20_ffe5317b](https://github.com/user-attachments/assets/986bcf79-3c11-4f0d-8e0c-fe9d796139ae)
+PowerBI:
+<img width="1920" height="767" alt="Image-90 1" src="https://github.com/user-attachments/assets/dcca3784-5ba0-49c9-be5a-04e9f14bd352" />
+<img width="1536" height="1024" alt="ChatGPT Image Dec 10, 2025, 06_28_38 PM" src="https://github.com/user-attachments/assets/6867cc2d-910c-4914-98ce-6c2e6da293d8" />
+
+
+
+
+
+
+
+
 
 
 
