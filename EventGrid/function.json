@@ -1,0 +1,16 @@
+{
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "event",
+      "direction": "in"
+    },
+    {
+      "type": "queue",
+      "direction": "out",
+      "name": "outputQueueItem",
+      "queueName": "ingest-bank",
+      "connection": "AzureWebJobsStorage"
+    }
+   ]
+}
